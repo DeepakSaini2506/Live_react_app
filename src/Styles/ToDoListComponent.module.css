@@ -1,0 +1,11 @@
+/* In module based css only css based css is use not tag based css  */
+
+.heading{
+    color: Red;
+}
+.container{
+    background-color: aqua;
+    color: brown;
+    height:100%;
+    width: 100%;
+}
